@@ -1,0 +1,86 @@
+@charset "utf-8";
+body {
+	padding: 0;
+	margin: 0;
+}
+.base {
+	position:absolute;
+}
+.life {
+  position: absolute;
+  left: 729px;
+  top: 125px;
+}
+.cabin {
+  background-image: url("cabin.png");
+  position: absolute;
+  left: 226px;
+  top: 232px;
+  width: 732px;
+  height: 426px;
+  z-index: 2;
+}
+.canyon {
+  background-image: url("canyon.png");
+  position: absolute;
+  left: 982px;
+  top: 720px;
+  width: 755px;
+  height: 398px;
+  z-index: 4;
+}
+.japan {
+  background-image: url("japan.png");
+  position: absolute;
+  left: 226px;
+  top: 720px;
+  width: 732px;
+  height: 391px;
+  z-index: 5;
+}
+.tower {
+  background-image: url("france.png");
+  position: absolute;
+  left: 982px;
+  top: 232px;
+  width: 755px;
+  height: 426px;
+  z-index: 6;
+}
+.stan1 {
+  background-image: url("Stan1.png");
+  position: absolute;
+  left: 1344px;
+  top: 886px;
+  width: 393px;
+  height: 232px;
+  z-index: 7;
+}
+.stan2 {
+  background-image: url("Stan2.png");
+  position: absolute;
+  left: 565px;
+  top: 879px;
+  width: 393px;
+  height: 232px;
+  z-index: 8;
+}
+.stan3 {
+  background-image: url("Stan3.png");
+  position: absolute;
+  left: 1344px;
+  top: 426px;
+  width: 393px;
+  height: 232px;
+  z-index: 9;
+}
+.stan4 {
+  background-image: url("Stan4.png");
+  position: absolute;
+  left: 565px;
+  top: 426px;
+  width: 393px;
+  height: 232px;
+  z-index: 10;
+}
+

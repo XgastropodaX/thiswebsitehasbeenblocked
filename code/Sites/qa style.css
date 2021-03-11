@@ -1,0 +1,30 @@
+@charset "utf-8";
+body {
+	padding: 0;
+	margin: 0;
+}
+.base {
+	position:absolute;
+}
+.life {
+  position: absolute;
+  left: 729px;
+  top: 125px;
+}
+pre {
+	position: absolute;
+	font-size: 30px;
+	left: 250px;
+	top:200px;
+}
+.qa {
+  background-image: url("Layer 1.png");
+  position: absolute;
+  left: 1349px;
+  top: 849px;
+  width: 614px;
+  height: 455px;
+  z-index: 3;
+}
+\
+

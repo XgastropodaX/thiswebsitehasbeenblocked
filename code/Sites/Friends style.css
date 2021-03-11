@@ -1,0 +1,33 @@
+@charset "utf-8";
+body {
+	padding: 0;
+	margin: 0;
+}
+.base {
+	position:absolute;
+}
+.sorry {
+  background-image: url("Layer 1.png");
+  position: absolute;
+  left: 186px;
+  top: 0px;
+  width: 1494px;
+  height: 1138px;
+  z-index: 4;
+}
+.fake {
+  background-image: url("fake.png");
+  position: absolute;
+  left: 0px;
+  top: 98px;
+}
+.real {
+  background-image: url("real.png");
+  position: absolute;
+  left: 647px;
+  top: 1112px;
+
+}
+
+
+

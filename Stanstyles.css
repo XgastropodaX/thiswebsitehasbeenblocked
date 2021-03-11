@@ -1,0 +1,58 @@
+@charset "utf-8";
+body {
+	padding: 0;
+	margin: 0;
+}
+.base {
+	position:absolute;
+}
+.intro {
+  position: absolute;
+  left: 902px;
+  top: 464px;
+}
+	.stansworld {
+  position: absolute;
+  left: 316px;
+  top: 6px;
+
+}
+.life {
+  position: absolute;
+  left: 263px;
+  top: 293px;
+}
+.gallery {
+  position: absolute;
+  left: 260px;
+  top: 437px;
+}
+.favs {
+  position: absolute;
+  left: 260px;
+  top: 595px;
+}
+.merch {
+  position: absolute;
+  left: 262px;
+  top: 1002px;
+}
+.friends {
+  position: absolute;
+  left: 259px;
+  top: 742px;
+}
+.qa {
+  position: absolute;
+  left: 262px;
+  top: 874px;
+}
+pre {
+position: absolute;
+  left: 920px;
+  top: 550px;
+	font-size: 25px;
+	color: greenyellow;
+	
+	
+}
